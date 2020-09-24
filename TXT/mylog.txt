@@ -7,3 +7,4 @@ ZCZC W01 120 ZOOM
 ZCZC W01 30 Setting up virtual box
 ZCZC W01 20 Introduction to Linux video
 ZCZC W01 60 Playing around with PuTTY and VirtualBox
+ZCZC W01 20 Logging through terminal
