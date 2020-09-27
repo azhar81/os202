@@ -9,4 +9,4 @@ ZCZC W01 20 Introduction to Linux video
 ZCZC W01 60 Playing around with PuTTY and VirtualBox
 ZCZC W01 20 Logging through terminal
 ZCZC W01 30 Copy folders from (rsync) badak
-ZCZC W01 60 reading slides and reference book
+ZCZC W01 60 reading slides and the reference book
