@@ -5,6 +5,6 @@ ZCZC W00 alifyandra
 ZCZC W01 aulia-adil
 ZCZC W01 althof3
 ZCZC W01 baguspr
+ZCZC W02 alifyandra
 ZCZC W02 althof3
 ZCZC W02 aulia-adil
-ZCZC W02 
