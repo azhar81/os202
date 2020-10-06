@@ -3,6 +3,12 @@
 
 [WEB](https://azhar81.github.io/os202/)
 [GitHub](https://github.com/azhar81/os202/)
+[My Log](TXT/mylog.txt)
+[My Public Key](TXT/mypubkey.txt)
+[My Script](TXT/myscript.sh)
+[My Top Ten Rank List](TXT/myrank.txt)
+[SHA256SUM](TXT/SHA256SUM)
+[SHA256SUM.asc](TXT/SHA256SUM.asc)
 
 <br>
 
