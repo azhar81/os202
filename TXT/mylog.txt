@@ -27,4 +27,7 @@ ZCZC W02 30 L24 bertanya pada asdos
 ZCZC W02 10 L25 ranking github pages tetangga (Assignment #5)
 ZCZC W02 15 L26 general logging (Assignment #8)
 ZCZC W02 45 L27 Cicak Bin Kadal 2&3
-ZCZC W03 30 L28 Week 3 osp4diss (Assignment #6, #7, #9, & #10)
+ZCZC W03 30 L28 Week 3 osp4diss (Assignment #3, #6, #7, #9)
+ZCZC W03 30 L29 Demo 2&3 (Assignment #2)
+ZCZC W03 15 L30 rank github page tetangga (Assignment #4)
+ZCZC W03 60 L32 membaca buku referensi file system (Assignment #10)
