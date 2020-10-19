@@ -4,9 +4,9 @@
 [WEB](https://azhar81.github.io/os202/)
 [GitHub](https://github.com/azhar81/os202/)
 
-# My name is Azhar
+# My name is Azhar <br>
 
-## [My Log](TXT/mylog.txt)
+## [My Log](TXT/mylog.txt) <br>
 
 ## My TXT Folder
 * [My Log](TXT/mylog.txt)
