@@ -34,3 +34,7 @@ ZCZC W03 60 L32 membaca buku referensi file system (Assignment #1)
 ZCZC W03 60 L33 gsgs untuk top 10 minggu 4 (Assignment #5)
 ZCZC W03 1 L34 bash myscript.sh (Assignment #9 & #10)
 ZCZC W03 10 L35 general logging (Assignment #8)
+ZCZC W04 120 L36 Zoom meeting
+ZCZC W04 60 L37 Assignment #5, #6, #8, and Demos W04 (Assignment #1)
+ZCZC W04 60 L38 Read OSC10 chapter 09 (Assignment #1)
+ZCZC W04 10 L39 Rank tetangga (Assignment #3)

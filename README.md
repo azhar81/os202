@@ -3,21 +3,23 @@
 
 [WEB](https://azhar81.github.io/os202/)
 [GitHub](https://github.com/azhar81/os202/)
-[My Log](TXT/mylog.txt)
-[My Public Key](TXT/mypubkey.txt)
-[My Script](TXT/myscript.sh)
-[My Top Ten Rank List](TXT/myrank.txt)
-[SHA256SUM](TXT/SHA256SUM)
-[SHA256SUM.asc](TXT/SHA256SUM.asc)
-
-<br>
 
 # My name is Azhar
 
 ## [My Log](TXT/mylog.txt)
-<br>
-<hr>
-<br>
+
+## My TXT Folder
+* [My Log](TXT/mylog.txt)
+* [My Top Ten Rank List](TXT/myrank.txt)
+* [My Public Key](TXT/mypubkey.txt)
+* [My Week 3 token](TXT/myW03token.txt)
+* [My Week 3 disk](TXT/myW03disk.txt)
+* [My Week 4 token](TXT/myW04token.txt)
+* [My Week 4 result](TXT/myW03token.txt)
+* [My Script](TXT/myscript.sh)
+* [SHA256SUM](TXT/SHA256SUM)
+* [SHA256SUM.asc](TXT/SHA256SUM.asc)
+
 ## Operating Systems Weekly Top Ten List
 * [Week 00](W00/)
 * [Week 01](W01/)
