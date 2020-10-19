@@ -5,8 +5,10 @@
 [GitHub](https://github.com/azhar81/os202/)
 
 # My name is Azhar <br>
+<hr>
 
 ## [My Log](TXT/mylog.txt) <br>
+<hr>
 
 ## My TXT Folder
 * [My Log](TXT/mylog.txt)
@@ -19,6 +21,7 @@
 * [My Script](TXT/myscript.sh)
 * [SHA256SUM](TXT/SHA256SUM)
 * [SHA256SUM.asc](TXT/SHA256SUM.asc)
+<hr>
 
 ## Operating Systems Weekly Top Ten List
 * [Week 00](W00/)
