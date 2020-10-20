@@ -40,4 +40,4 @@ ZCZC W04 60 L38 Read OSC10 chapter 09 (Assignment #1)
 ZCZC W04 10 L39 Rank tetangga (Assignment #3)
 ZCZC W04 90 L40 GSGS
 ZCZC W04 30 L41 weekly top 10 list (Assignment #4)
-ZCZC W04 90 L42 run bash myscript.sh untuk update shasum (Assignment #9)
+ZCZC W04 5 L42 run bash myscript.sh untuk update shasum (Assignment #9)
