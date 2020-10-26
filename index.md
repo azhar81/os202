@@ -5,22 +5,10 @@
 [GitHub](https://github.com/azhar81/os202/)
 
 # My name is Azhar <br>
+<img src="heart.png" width="128">
 <hr>
 
 ## [My Log](TXT/mylog.txt) <br>
-<hr>
-
-## My TXT Folder
-* [My Log](TXT/mylog.txt)
-* [My Top Ten Rank List](TXT/myrank.txt)
-* [My Public Key](TXT/mypubkey.txt)
-* [My Week 3 token](TXT/myW03token.txt)
-* [My Week 3 disk](TXT/myW03disk.txt)
-* [My Week 4 token](TXT/myW04token.txt)
-* [My Week 4 result](TXT/myW03token.txt)
-* [My Script](TXT/myscript.sh)
-* [SHA256SUM](TXT/SHA256SUM)
-* [SHA256SUM.asc](TXT/SHA256SUM.asc)
 <hr>
 
 ## Operating Systems Weekly Top Ten List
@@ -30,5 +18,18 @@
 * [Week 03](W03/)
 * [Week 04](W04/)
 * [Week 05](W05/)
+<hr>
 
-<img src="heart.png" width="256">
+## My TXT Folder
+* [My Log](TXT/mylog.txt)
+* [My Top Ten Rank List](TXT/myrank.txt)
+* [My Public Key](TXT/mypubkey.txt)
+* [My Week 3 token](TXT/myW03token.txt)
+* [My Week 3 disk](TXT/myW03disk.txt)
+* [My Week 4 token](TXT/myW04token.txt)
+* [My Week 4 result](TXT/myW04.txt)
+* [My Week 5 token](TXT/myW05token.txt)
+* [My Week 5 result](TXT/myW05.txt)
+* [My Script](TXT/myscript.sh)
+* [SHA256SUM](TXT/SHA256SUM)
+* [SHA256SUM.asc](TXT/SHA256SUM.asc)
