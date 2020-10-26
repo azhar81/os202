@@ -5,6 +5,7 @@
 [GitHub](https://github.com/azhar81/os202/)
 
 # My name is Azhar <br>
+<img src="heart.png" width="128">
 <hr>
 
 ## [My Log](TXT/mylog.txt) <br>
@@ -30,5 +31,3 @@
 * [Week 03](W03/)
 * [Week 04](W04/)
 * [Week 05](W05/)
-
-<img src="heart.png" width="256">
