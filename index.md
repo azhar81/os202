@@ -30,3 +30,5 @@
 * [Week 03](W03/)
 * [Week 04](W04/)
 * [Week 05](W05/)
+
+<img src="heart.png" width="256">
