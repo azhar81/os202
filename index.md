@@ -11,6 +11,15 @@
 ## [My Log](TXT/mylog.txt) <br>
 <hr>
 
+## Operating Systems Weekly Top Ten List
+* [Week 00](W00/)
+* [Week 01](W01/)
+* [Week 02](W02/)
+* [Week 03](W03/)
+* [Week 04](W04/)
+* [Week 05](W05/)
+<hr>
+
 ## My TXT Folder
 * [My Log](TXT/mylog.txt)
 * [My Top Ten Rank List](TXT/myrank.txt)
@@ -24,12 +33,3 @@
 * [My Script](TXT/myscript.sh)
 * [SHA256SUM](TXT/SHA256SUM)
 * [SHA256SUM.asc](TXT/SHA256SUM.asc)
-<hr>
-
-## Operating Systems Weekly Top Ten List
-* [Week 00](W00/)
-* [Week 01](W01/)
-* [Week 02](W02/)
-* [Week 03](W03/)
-* [Week 04](W04/)
-* [Week 05](W05/)
