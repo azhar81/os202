@@ -41,3 +41,7 @@ ZCZC W04 10 L39 Rank tetangga (Assignment #3)
 ZCZC W04 90 L40 GSGS
 ZCZC W04 30 L41 weekly top 10 list (Assignment #4)
 ZCZC W04 5 L42 run bash myscript.sh untuk update shasum (Assignment #9)
+ZCZC W05 120 L43 ZOOM meeting
+ZCZC W05 60 L44 week 5 assignments (Assignment #2, #5, and #6)
+ZCZC W05 30 L45 reading assignment (Assignment #1)
+ZCZC W05 10 L46 ranking neighbours (Assignment #3)
