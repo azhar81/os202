@@ -45,3 +45,9 @@ ZCZC W05 120 L43 ZOOM meeting
 ZCZC W05 60 L44 week 5 assignments (Assignment #2, #5, and #6)
 ZCZC W05 30 L45 reading assignment (Assignment #1)
 ZCZC W05 10 L46 ranking neighbours (Assignment #3)
+ZCZC W06 120 L47 ZOOM meeting
+ZCZC W06 150 L48 W06 checklist on virtual box (Assignment #2, #5, #6, #7, #8, #9, #10, #11)
+ZCZC W06 60 L49 reading assignment (Assignment #1)
+ZCZC W06 10 L50 ranking previous week top 10 lists (Assignment #3)
+ZCZC W06 60 L51 GSGS
+ZCZC W06 45 L52 Top 10 list (Assignment #4)
