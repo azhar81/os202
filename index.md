@@ -19,6 +19,7 @@
 * [Week 04](W04/)
 * [Week 05](W05/)
 * [Week 06](W06/)
+* [Week 07](W07/)
 <hr>
 
 ## My TXT Folder
@@ -33,6 +34,9 @@
 * [My Week 5 result](TXT/myW05.txt)
 * [My Week 6 token](TXT/myW06token.txt)
 * [My Week 6 result](TXT/myW06.txt)
+* [My Week 6 encrypt](TXT/myW06.tar.bz2.txt)
+* [My Week 7 token](TXT/myW07token.txt)
+* [My Week 7 encrypt](myW07.tar.bz2.txt)
 * [My Script](TXT/myscript.sh)
 * [SHA256SUM](TXT/SHA256SUM)
 * [SHA256SUM.asc](TXT/SHA256SUM.asc)
