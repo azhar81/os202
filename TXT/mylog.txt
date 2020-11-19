@@ -51,3 +51,9 @@ ZCZC W06 60 L49 reading assignment (Assignment #1)
 ZCZC W06 10 L50 ranking previous week top 10 lists (Assignment #3)
 ZCZC W06 60 L51 GSGS
 ZCZC W06 45 L52 Top 10 list (Assignment #4)
+ZCZC W07 120 L53 ZOOM meeting
+ZCZC W07 60 L54 Reading assignment (Assignment #2)
+ZCZC W07 45 L55 Programming assignment on vbox (Assignment #6, #7, #11, & #12)
+ZCZC W07 45 L56 top 10 list (Assignment #5)
+ZCZC W07 10 L57 rank neighbours (Assignment #4)
+ZCZC W07 10 L58 run myscript
