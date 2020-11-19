@@ -44,4 +44,4 @@
 * [My Week 6 encrypt](TXT/myW06.tar.bz2.txt)
 ### Week 07
 * [My Week 7 token](TXT/myW07token.txt)
-* [My Week 7 encrypt](myW07.tar.bz2.txt)
+* [My Week 7 encrypt](TXT/myW07.tar.bz2.txt)
