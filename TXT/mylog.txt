@@ -57,3 +57,7 @@ ZCZC W07 45 L55 Programming assignment on vbox (Assignment #6, #7, #11, & #12)
 ZCZC W07 45 L56 top 10 list (Assignment #5)
 ZCZC W07 10 L57 rank neighbours (Assignment #4)
 ZCZC W07 10 L58 run myscript
+ZCZC W08 120 L59 zoom meeting
+ZCZC W08 60 L60 reading assignment
+ZCZC W08 10 L61 review neighbours TOP 10 LIST
+ZCZC W08 120 L62 virtualbox assignments (token and making tarball)
