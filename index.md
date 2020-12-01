@@ -20,6 +20,7 @@
 * [Week 05](W05/)
 * [Week 06](W06/)
 * [Week 07](W07/)
+* [Week 08](W08/)
 <hr>
 
 ## My TXT Folder
@@ -50,3 +51,7 @@
 ### Week 07
 * [My Week 7 token](TXT/myW07token.txt)
 * [My Week 7 encrypt](TXT/myW07.tar.bz2.txt)
+
+### Week 08
+* [My Week 8 token](TXT/myW08token.txt)
+* [My Week 8 tarball](TXT/myW08.tar.bz2.txt)
